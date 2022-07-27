@@ -4,12 +4,12 @@ Here, you will find my analysis and machine learning model I made as part of the
 
 The problem stated that ideally 2/3 of the events predicted to be wheelchair inaccessbile should indeed be wheelchair inaccessible.
 
-# What I made:
+# What I made
 
 * An XGBoost model and tuned it using scikit-learn as well as graphically from its logloss.
 * Data visualizations using seaborn and matplotlib libraries
 * Detailed analysis and reasoning using markdowns 
 
-# Access: 
+# Access
 * Please download the "events.csv" file, you may need to change the directory written on the first cell (pd.read_csv())
 * Ensure that all libraries in the file has already been installed (pandas, xgboost, scikit-learn, matplotlib, seaborn)
