@@ -1,0 +1,6 @@
+## Wheelchair Accessibility Prediction
+
+Case study of DataCamp Professional Data Scientist certification. The task was to do data analysis and construct a machine learning model to predict whether an event is wheelchair accessible.
+
+Model was made using XGBoost with the help of functionalities from Scikit-Learn
+
