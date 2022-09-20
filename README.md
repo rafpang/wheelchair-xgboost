@@ -17,3 +17,9 @@ The recording was done using DataCamp's recording software (of which I unfortuna
 ## Access
 * Please download the "event_venues.csv" file. You may need to change the directory written on the first cell (pd.read_csv())
 * Ensure that all libraries in the file has already been installed (pandas, xgboost, scikit-learn, matplotlib, seaborn)
+
+## Packages Used
+* XGBoost
+* Scikit-Learn
+* Matplotlib
+* Seaborn
